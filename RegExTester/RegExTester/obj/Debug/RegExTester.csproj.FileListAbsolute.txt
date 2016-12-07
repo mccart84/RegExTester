@@ -1,0 +1,9 @@
+C:\Users\Ryan\Desktop\RegExTester\RegExTester\bin\Debug\RegExTester.exe.config
+C:\Users\Ryan\Desktop\RegExTester\RegExTester\bin\Debug\RegExTester.exe
+C:\Users\Ryan\Desktop\RegExTester\RegExTester\bin\Debug\RegExTester.pdb
+C:\Users\Ryan\Desktop\RegExTester\RegExTester\obj\Debug\RegExTester.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\RegExTester\RegExTester\obj\Debug\RegExTester.Form1.resources
+C:\Users\Ryan\Desktop\RegExTester\RegExTester\obj\Debug\RegExTester.Properties.Resources.resources
+C:\Users\Ryan\Desktop\RegExTester\RegExTester\obj\Debug\RegExTester.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\RegExTester\RegExTester\obj\Debug\RegExTester.exe
+C:\Users\Ryan\Desktop\RegExTester\RegExTester\obj\Debug\RegExTester.pdb
